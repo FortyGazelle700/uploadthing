@@ -1,5 +1,11 @@
 # uploadthing
 
+## 6.6.1
+
+### Patch Changes
+
+- [#715](https://github.com/pingdotgg/uploadthing/pull/715) [`9644807`](https://github.com/pingdotgg/uploadthing/commit/96448073319d378208bd3dc5549c7146ce942fd7) Thanks [@jonsystems](https://github.com/jonsystems)! - fix: platform agnostic pathing for twPlugin
+
 ## 6.6.0
 
 ### Minor Changes
